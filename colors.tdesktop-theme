@@ -30,7 +30,7 @@ windowSubTextFg: #035582;
 windowSubTextFgOver: #417aa5;
 windowBoldFg: #0080c6;
 windowBoldFgOver: #426b85;
-windowBgActive: #00adee;
+windowBgActive: #ff3333;
 windowFgActive: #ffffff;
 windowActiveTextFg: #168acd;
 windowShadowFg: #000000;
